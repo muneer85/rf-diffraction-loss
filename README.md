@@ -35,9 +35,13 @@ An example illustrating how to use this function is attached here, i.e., “Exam
 -	Phased Array System Toolbox
 
 ## Output Sample
-The user is expected to get results and figures similar to the following:
+The user is expected to get results similar to the following:
 
+<img src="images/fig1.jpg" align="center" align="center" height="400" width="400" />
 
+<img src="images/fig2.jpg" align="center" align="center" height="400" width="400" />
+
+<img src="images/fig3.jpg" align="center" align="center" height="400" width="400" />
 
 
 ## Referncies 
