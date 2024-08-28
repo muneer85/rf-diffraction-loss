@@ -37,12 +37,14 @@ An example illustrating how to use this function is attached here, i.e., “Exam
 ## Output Sample
 The user is expected to get results similar to the following:
 
-<img src="images/fig1.jpg" align="center" align="center" height="400" width="400" />
+<img src="images/fig1.jpg" align="center" align="center" height="300" width="300" />
+Fig. 1: Site viewer
 
-<img src="images/fig2.jpg" align="center" align="center" height="400" width="400" />
+<img src="images/fig2.jpg" align="center" align="center" height="300" width="400" />
+Fig. 2: Elevation profile between TX and Rx
 
-<img src="images/fig3.jpg" align="center" align="center" height="400" width="400" />
-
+<img src="images/fig3.jpg" align="center" align="center" height="300" width="300" />
+Fig. 3: Output pathloss and corresponding parameters
 
 ## Referncies 
 [1] “Propagation by diffraction,” Int. Telecommun. Union (ITU), Geneva, Switzerland, ITU-Recommendation P. 526–15, 2019.
