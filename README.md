@@ -34,6 +34,12 @@ An example illustrating how to use this function is attached here, i.e., “Exam
 -	Communications Toolbox
 -	Phased Array System Toolbox
 
+## Output Sample
+The user is expected to get results and figures similar to the following:
+
+
+
+
 ## Referncies 
 [1] “Propagation by diffraction,” Int. Telecommun. Union (ITU), Geneva, Switzerland, ITU-Recommendation P. 526–15, 2019.
 
