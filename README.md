@@ -55,7 +55,7 @@ Fig. 2: Elevation profile between TX and Rx
 Fig. 3: Output pathloss and corresponding parameters
 
 
-## Referncies 
+## References 
 [1] “Propagation by diffraction,” Int. Telecommun. Union (ITU), Geneva, Switzerland, ITU-Recommendation P. 526–15, 2019.
 
 [2] M. M. Al-Zubi and M.-S. Alouini, "End-to-End Modelling and Simulation of NLOS Sub-6 GHz Backhaul via Diffraction for Internet Connectivity of Rural Areas,"IEEE Open Journal of the Communications Society, 2023.
