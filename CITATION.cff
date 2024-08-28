@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this module, please cite it as below."
+authors:
+- family-names: "Al-Zubi"
+  given-names: "Muneer"
+  orcid: "https://orcid.org/0000-0002-4792-7386"
+- family-names: "Alouini"
+  given-names: "Mohamed-Slim"
+  orcid: "https://orcid.org/0000-0003-4827-1793"
+title: "Benchmark Test Module for GNU Radio"
+version: 1.0.0
+doi: 
+date-released: 28/08/2024 
+url: "https://github.com/muneer85/gr-benchmark"
