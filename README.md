@@ -14,8 +14,8 @@ An example illustrating how to use this function is attached here, i.e., “Exam
 |L_KE|Knife edge diffraction loss in dB|
 |L_D|rounded obstacle diffraction loss in dB|
 |L|total pathloss [L= L_fs + L_D] in dB|
-|d1|the distances from the TX antenna to the top of the obstacle in m|
-|d2|the distances from the RX antenna to the top of the obstacle in m|
+|d1|the distance from the TX antenna to the top of the obstacle in m|
+|d2|the distance from the RX antenna to the top of the obstacle in m|
 |h|the distance from the top of the obstacle to the LOS line that connects the two antennas in m (h is negative if the obstacle is below this line)|
 |R|the obstacle radius of curvature in m|
 |F1|1st Fresnel zone radius at obstacle location in m|
