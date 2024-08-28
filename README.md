@@ -1,6 +1,6 @@
 # Rounded Obstacle Diffraction Loss Model
 
-This MATLAB function provides the diffraction loss calculated using the rounded obstacle diffraction loss model by adding a correction factor to the Knife Edge diffraction model by considering the diffractive obstacle as a rounded obstacle having a radius of curvature instead of the ideal knife-edge assumption. It is built based on the Recommendation ITU-R P.526-15 [1]. 
+This MATLAB function provides the diffraction loss calculated using the rounded obstacle diffraction loss model by adding a correction factor to the Knife Edge diffraction model by considering the diffractive obstacle as a rounded obstacle having a radius of curvature instead of the ideal knife-edge assumption. It is built based on the Recommendation ITU-R P.526-15 [1]. This function uses a terrain data model to obtain an elevation profile between the transmitter and the receiver. 
 
 For more details, the reader can refer to the following article [2]. If you use this code in your work, please cite the following article: 
 
