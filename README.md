@@ -25,7 +25,7 @@ An example illustrating how to use this function is attached here, i.e., “Exam
 |d|distance between TX and RX in Km|
 |Theta|diffraction angle in degree|
 
-## Requirements: 
+## Requirements
 -	MATLAB
 -	Mapping Toolbox                  
 -	Symbolic Math Toolbox
